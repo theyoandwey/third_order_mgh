@@ -27,3 +27,14 @@ x, *_ = cubRegNewtonMethod_clean(func, func.x0, sigma0=1.0)
 
 - Python 3.8+
 - NumPy
+
+## References
+
+- J. J. More, B. S. Garbow, K. E. Hillstrom. *Testing Unconstrained Optimization Software*. ACM TOMS, 7(1):17-41, 1981. [DOI:10.1145/355934.355936](https://doi.org/10.1145/355934.355936)
+- E. G. Birgin, J. L. Gardenghi, J. M. Martinez, S. A. Santos, Ph. L. Toint. *Worst-case evaluation complexity for unconstrained nonlinear optimization using high-order regularized models*. Math. Program., 163:359-368, 2017. [DOI:10.1007/s10107-016-1065-8](https://doi.org/10.1007/s10107-016-1065-8)
+- E. G. Birgin, J. L. Gardenghi, J. M. Martinez, S. A. Santos. *On the use of third-order models with fourth-order regularization for unconstrained optimization*. Optim. Lett., 14:815-838, 2020. [DOI:10.1007/s11590-019-01395-z](https://doi.org/10.1007/s11590-019-01395-z)
+- C. Cartis, N. I. M. Gould, Ph. L. Toint. *Adaptive cubic regularisation methods for unconstrained optimization. Part I*. Math. Program., 127:245-295, 2011. [DOI:10.1007/s10107-009-0286-5](https://doi.org/10.1007/s10107-009-0286-5)
+
+## License
+
+MIT License. See [LICENSE](LICENSE).

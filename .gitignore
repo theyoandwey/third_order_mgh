@@ -1,0 +1,16 @@
+# Ignore everything by default
+*
+
+# Track these files
+!.gitignore
+!requirements.txt
+!README.md
+
+# Core library
+!MGH.py
+!function_helper.py
+!methods_clean.py
+
+# Tests / extras folder
+!tests/
+!tests/**

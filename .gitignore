@@ -10,7 +10,3 @@
 !MGH.py
 !function_helper.py
 !methods_clean.py
-
-# Tests / extras folder
-!tests/
-!tests/**

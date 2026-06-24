@@ -37,4 +37,4 @@ x, *_ = cubRegNewtonMethod_clean(func, func.x0, sigma0=1.0)
 
 ## License
 
-MIT License. See [LICENSE](LICENSE).
+Public domain. See [LICENSE](LICENSE).
